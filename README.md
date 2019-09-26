@@ -1,5 +1,6 @@
 # dotnetframework
-Repository for .NET Framework - Photo Slideshow Application
+Đây là bài tập Sileshow nhóm thầy Zũng
+
 
 Mã sinh viên:     16T1021058
 
