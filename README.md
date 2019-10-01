@@ -1,5 +1,5 @@
 # dotnetframework
-Đây là bài tập "Sileshow" nhóm thầy Zũng
+Bài tập "Sileshow"
 
 
 Mã sinh viên:     16T1021058.
